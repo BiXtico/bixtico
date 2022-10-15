@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Nabil</h1>
 <h3 align="center">A passionate software Developer from Egypt.</h3>
 
-- 🌱 I’m currently learning **Flutter, Compose Material**
+- 🌱 I’m currently learning **Compose Material**
 
 - 💬 Ask me about **Kotlin, Native Android**
 
