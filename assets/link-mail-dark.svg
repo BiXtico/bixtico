@@ -1,10 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="450" height="78" viewBox="0 0 450 78" role="img" aria-labelledby="title">
-  <title id="title">Email mahmoud.inquire@gmail.com</title>
-  <rect width="450" height="78" fill="#070b14"/>
-  <rect x="0.5" y="0.5" width="449" height="77" fill="none" stroke="#24344c"/>
-  <rect x="14" y="14" width="422" height="50" rx="14" fill="#10192b" stroke="#24344c"/>
-  <rect x="26" y="24" width="32" height="30" rx="8" fill="#0c1424" stroke="#5eecc4" stroke-width="1.5"/>
-  <rect x="32" y="33" width="20" height="13" rx="2" fill="none" stroke="#5eecc4" stroke-width="1.5"/>
-  <path d="M33 34 L42 41 L51 34" fill="none" stroke="#5eecc4" stroke-width="1.5"/>
-  <text x="70" y="45" fill="#f4f7fb" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15">mahmoud.inquire@gmail.com</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="68" viewBox="0 0 450 68" role="img" aria-labelledby="title">
+  <title id="title">Email</title>
+  <rect width="450" height="68" fill="#070b14"/>
+  <rect x="0.5" y="0.5" width="449" height="67" fill="none" stroke="#24344c"/>
+  <ellipse cx="168" cy="38" rx="26" ry="9" fill="#5eecc4" opacity="0.2">
+    <animate attributeName="opacity" values="0.35;0.12;0.35" dur="2.2s" repeatCount="indefinite"/>
+  </ellipse>
+  <rect x="150" y="16" width="36" height="32" rx="9" fill="#10241f" stroke="#5eecc4" stroke-width="1.5"/>
+  <rect x="157" y="25" width="22" height="14" rx="2" fill="none" stroke="#5eecc4" stroke-width="1.6"/>
+  <path d="M158 26 L168 33 L178 26" fill="none" stroke="#5eecc4" stroke-width="1.6"/>
 </svg>
