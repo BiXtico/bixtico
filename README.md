@@ -17,13 +17,13 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/link-mail-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="./assets/link-mail-light.svg">
-      <img alt="mahmoud.inquire@gmail.com" width="450" src="./assets/link-mail-dark.svg">
+      <img alt="Email" width="450" src="./assets/link-mail-dark.svg">
     </picture>
   </a><a href="https://linkedin.com/in/mahmoudnabil-176">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/link-in-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="./assets/link-in-light.svg">
-      <img alt="linkedin.com/in/mahmoudnabil-176" width="450" src="./assets/link-in-dark.svg">
+      <img alt="LinkedIn" width="450" src="./assets/link-in-dark.svg">
     </picture>
   </a>
 </p>
