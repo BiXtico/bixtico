@@ -1,0 +1,170 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="100" viewBox="0 0 900 100" role="img" aria-labelledby="title">
+  <title id="title">Loadout. A conveyor of tools: TypeScript, React Native, NestJS, Swift, AWS, and more.</title>
+
+  <rect width="900" height="100" fill="#070b14"/>
+  <rect x="0.5" y="0.5" width="899" height="99" fill="none" stroke="#24344c"/>
+  <linearGradient id="fadeL" x1="0" x2="1">
+    <stop offset="0" stop-color="#070b14"/>
+    <stop offset="1" stop-color="#070b14" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="fadeR" x1="0" x2="1">
+    <stop offset="0" stop-color="#070b14" stop-opacity="0"/>
+    <stop offset="1" stop-color="#070b14"/>
+  </linearGradient>
+  <clipPath id="belt"><rect x="132" y="0" width="768" height="100"/></clipPath>
+  <g clip-path="url(#belt)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="150,0;-1914,0" dur="28s" repeatCount="indefinite"/>
+      <g transform="translate(0,30)">
+                  <rect width="158" height="40" rx="20" fill="#10192b" stroke="#24344c"/>
+                  <rect x="8" y="8" width="36" height="24" rx="12" fill="#3178c6"/>
+                  <text x="26" y="24" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="700">TS</text>
+                  <text x="52" y="25" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="13">TypeScript</text>
+                </g>
+<g transform="translate(172,30)">
+                  <rect width="158" height="40" rx="20" fill="#10192b" stroke="#24344c"/>
+                  <rect x="8" y="8" width="36" height="24" rx="12" fill="#e8a317"/>
+                  <text x="26" y="24" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="700">JS</text>
+                  <text x="52" y="25" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="13">JavaScript</text>
+                </g>
+<g transform="translate(344,30)">
+                  <rect width="158" height="40" rx="20" fill="#10192b" stroke="#24344c"/>
+                  <rect x="8" y="8" width="36" height="24" rx="12" fill="#5eecc4"/>
+                  <text x="26" y="24" text-anchor="middle" fill="#102018" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="700">RN</text>
+                  <text x="52" y="25" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="13">React Native</text>
+                </g>
+<g transform="translate(516,30)">
+                  <rect width="158" height="40" rx="20" fill="#10192b" stroke="#24344c"/>
+                  <rect x="8" y="8" width="36" height="24" rx="12" fill="#7c6bf2"/>
+                  <text x="26" y="24" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="700">EX</text>
+                  <text x="52" y="25" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="13">Expo</text>
+                </g>
+<g transform="translate(688,30)">
+                  <rect width="158" height="40" rx="20" fill="#10192b" stroke="#24344c"/>
+                  <rect x="8" y="8" width="36" height="24" rx="12" fill="#e23d4a"/>
+                  <text x="26" y="24" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="700">NS</text>
+                  <text x="52" y="25" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="13">NestJS</text>
+                </g>
+<g transform="translate(860,30)">
+                  <rect width="158" height="40" rx="20" fill="#10192b" stroke="#24344c"/>
+                  <rect x="8" y="8" width="36" height="24" rx="12" fill="#f05138"/>
+                  <text x="26" y="24" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="700">SW</text>
+                  <text x="52" y="25" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="13">Swift</text>
+                </g>
+<g transform="translate(1032,30)">
+                  <rect width="158" height="40" rx="20" fill="#10192b" stroke="#24344c"/>
+                  <rect x="8" y="8" width="36" height="24" rx="12" fill="#ff9900"/>
+                  <text x="26" y="24" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="700">AWS</text>
+                  <text x="52" y="25" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="13">AWS</text>
+                </g>
+<g transform="translate(1204,30)">
+                  <rect width="158" height="40" rx="20" fill="#10192b" stroke="#24344c"/>
+                  <rect x="8" y="8" width="36" height="24" rx="12" fill="#336791"/>
+                  <text x="26" y="24" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="700">PG</text>
+                  <text x="52" y="25" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="13">Postgres</text>
+                </g>
+<g transform="translate(1376,30)">
+                  <rect width="158" height="40" rx="20" fill="#10192b" stroke="#24344c"/>
+                  <rect x="8" y="8" width="36" height="24" rx="12" fill="#d82c20"/>
+                  <text x="26" y="24" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="700">RD</text>
+                  <text x="52" y="25" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="13">Redis</text>
+                </g>
+<g transform="translate(1548,30)">
+                  <rect width="158" height="40" rx="20" fill="#10192b" stroke="#24344c"/>
+                  <rect x="8" y="8" width="36" height="24" rx="12" fill="#2496ed"/>
+                  <text x="26" y="24" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="700">DK</text>
+                  <text x="52" y="25" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="13">Docker</text>
+                </g>
+<g transform="translate(1720,30)">
+                  <rect width="158" height="40" rx="20" fill="#10192b" stroke="#24344c"/>
+                  <rect x="8" y="8" width="36" height="24" rx="12" fill="#7b42bc"/>
+                  <text x="26" y="24" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="700">TF</text>
+                  <text x="52" y="25" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="13">Terraform</text>
+                </g>
+<g transform="translate(1892,30)">
+                  <rect width="158" height="40" rx="20" fill="#10192b" stroke="#24344c"/>
+                  <rect x="8" y="8" width="36" height="24" rx="12" fill="#00a1e0"/>
+                  <text x="26" y="24" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="700">SF</text>
+                  <text x="52" y="25" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="13">Salesforce</text>
+                </g>
+      <g transform="translate(2064,30)">
+                  <rect width="158" height="40" rx="20" fill="#10192b" stroke="#24344c"/>
+                  <rect x="8" y="8" width="36" height="24" rx="12" fill="#3178c6"/>
+                  <text x="26" y="24" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="700">TS</text>
+                  <text x="52" y="25" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="13">TypeScript</text>
+                </g>
+<g transform="translate(2236,30)">
+                  <rect width="158" height="40" rx="20" fill="#10192b" stroke="#24344c"/>
+                  <rect x="8" y="8" width="36" height="24" rx="12" fill="#e8a317"/>
+                  <text x="26" y="24" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="700">JS</text>
+                  <text x="52" y="25" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="13">JavaScript</text>
+                </g>
+<g transform="translate(2408,30)">
+                  <rect width="158" height="40" rx="20" fill="#10192b" stroke="#24344c"/>
+                  <rect x="8" y="8" width="36" height="24" rx="12" fill="#5eecc4"/>
+                  <text x="26" y="24" text-anchor="middle" fill="#102018" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="700">RN</text>
+                  <text x="52" y="25" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="13">React Native</text>
+                </g>
+<g transform="translate(2580,30)">
+                  <rect width="158" height="40" rx="20" fill="#10192b" stroke="#24344c"/>
+                  <rect x="8" y="8" width="36" height="24" rx="12" fill="#7c6bf2"/>
+                  <text x="26" y="24" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="700">EX</text>
+                  <text x="52" y="25" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="13">Expo</text>
+                </g>
+<g transform="translate(2752,30)">
+                  <rect width="158" height="40" rx="20" fill="#10192b" stroke="#24344c"/>
+                  <rect x="8" y="8" width="36" height="24" rx="12" fill="#e23d4a"/>
+                  <text x="26" y="24" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="700">NS</text>
+                  <text x="52" y="25" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="13">NestJS</text>
+                </g>
+<g transform="translate(2924,30)">
+                  <rect width="158" height="40" rx="20" fill="#10192b" stroke="#24344c"/>
+                  <rect x="8" y="8" width="36" height="24" rx="12" fill="#f05138"/>
+                  <text x="26" y="24" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="700">SW</text>
+                  <text x="52" y="25" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="13">Swift</text>
+                </g>
+<g transform="translate(3096,30)">
+                  <rect width="158" height="40" rx="20" fill="#10192b" stroke="#24344c"/>
+                  <rect x="8" y="8" width="36" height="24" rx="12" fill="#ff9900"/>
+                  <text x="26" y="24" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="700">AWS</text>
+                  <text x="52" y="25" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="13">AWS</text>
+                </g>
+<g transform="translate(3268,30)">
+                  <rect width="158" height="40" rx="20" fill="#10192b" stroke="#24344c"/>
+                  <rect x="8" y="8" width="36" height="24" rx="12" fill="#336791"/>
+                  <text x="26" y="24" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="700">PG</text>
+                  <text x="52" y="25" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="13">Postgres</text>
+                </g>
+<g transform="translate(3440,30)">
+                  <rect width="158" height="40" rx="20" fill="#10192b" stroke="#24344c"/>
+                  <rect x="8" y="8" width="36" height="24" rx="12" fill="#d82c20"/>
+                  <text x="26" y="24" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="700">RD</text>
+                  <text x="52" y="25" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="13">Redis</text>
+                </g>
+<g transform="translate(3612,30)">
+                  <rect width="158" height="40" rx="20" fill="#10192b" stroke="#24344c"/>
+                  <rect x="8" y="8" width="36" height="24" rx="12" fill="#2496ed"/>
+                  <text x="26" y="24" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="700">DK</text>
+                  <text x="52" y="25" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="13">Docker</text>
+                </g>
+<g transform="translate(3784,30)">
+                  <rect width="158" height="40" rx="20" fill="#10192b" stroke="#24344c"/>
+                  <rect x="8" y="8" width="36" height="24" rx="12" fill="#7b42bc"/>
+                  <text x="26" y="24" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="700">TF</text>
+                  <text x="52" y="25" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="13">Terraform</text>
+                </g>
+<g transform="translate(3956,30)">
+                  <rect width="158" height="40" rx="20" fill="#10192b" stroke="#24344c"/>
+                  <rect x="8" y="8" width="36" height="24" rx="12" fill="#00a1e0"/>
+                  <text x="26" y="24" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="700">SF</text>
+                  <text x="52" y="25" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="13">Salesforce</text>
+                </g>
+    </g>
+  </g>
+  <rect x="132" y="0" width="28" height="100" fill="url(#fadeL)"/>
+  <rect x="840" y="0" width="60" height="100" fill="url(#fadeR)"/>
+  <rect width="150" height="100" fill="#070b14"/>
+  <text x="18" y="46" fill="#5eecc4" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" letter-spacing="2">LOADOUT</text>
+  <text x="18" y="68" fill="#93a1b8" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11">tools on deck</text>
+  <rect x="0.5" y="0.5" width="899" height="99" fill="none" stroke="#24344c"/>
+</svg>
