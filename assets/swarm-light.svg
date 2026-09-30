@@ -1,0 +1,417 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-labelledby="title">
+  <title id="title">Glitch Swarm. A ship clears a formation of winged bugs.</title>
+
+  <rect width="900" height="250" fill="#fbf6ec"/>
+  <rect x="0.5" y="0.5" width="899" height="249" fill="none" stroke="#e4d8c4"/>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0;-40,12;0,0" dur="14s" repeatCount="indefinite"/>
+    <circle cx="30" cy="24" r="1.2" fill="#1d6fbf"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.5s" begin="0.0s" repeatCount="indefinite"/></circle><circle cx="70" cy="80" r="1.7" fill="#1d6fbf"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.9s" begin="0.25s" repeatCount="indefinite"/></circle><circle cx="120" cy="40" r="1.2" fill="#1d6fbf"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.3s" begin="0.5s" repeatCount="indefinite"/></circle><circle cx="180" cy="110" r="1.7" fill="#1d6fbf"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.7s" begin="0.75s" repeatCount="indefinite"/></circle><circle cx="230" cy="28" r="1.2" fill="#1d6fbf"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.1s" begin="1.0s" repeatCount="indefinite"/></circle><circle cx="300" cy="70" r="1.7" fill="#1d6fbf"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.5s" begin="0.0s" repeatCount="indefinite"/></circle><circle cx="360" cy="18" r="1.2" fill="#1d6fbf"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.5s" begin="0.25s" repeatCount="indefinite"/></circle><circle cx="420" cy="96" r="1.7" fill="#1d6fbf"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.9s" begin="0.5s" repeatCount="indefinite"/></circle><circle cx="480" cy="36" r="1.2" fill="#1d6fbf"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.3s" begin="0.75s" repeatCount="indefinite"/></circle><circle cx="540" cy="120" r="1.7" fill="#1d6fbf"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.7s" begin="1.0s" repeatCount="indefinite"/></circle><circle cx="600" cy="22" r="1.2" fill="#1d6fbf"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.1s" begin="0.0s" repeatCount="indefinite"/></circle><circle cx="660" cy="78" r="1.7" fill="#1d6fbf"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.5s" begin="0.25s" repeatCount="indefinite"/></circle><circle cx="720" cy="44" r="1.2" fill="#1d6fbf"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.5s" begin="0.5s" repeatCount="indefinite"/></circle><circle cx="780" cy="16" r="1.7" fill="#1d6fbf"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.9s" begin="0.75s" repeatCount="indefinite"/></circle><circle cx="840" cy="90" r="1.2" fill="#1d6fbf"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.3s" begin="1.0s" repeatCount="indefinite"/></circle><circle cx="880" cy="50" r="1.7" fill="#1d6fbf"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.7s" begin="0.0s" repeatCount="indefinite"/></circle><circle cx="150" cy="150" r="1.2" fill="#1d6fbf"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.1s" begin="0.25s" repeatCount="indefinite"/></circle><circle cx="510" cy="160" r="1.7" fill="#1d6fbf"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.5s" begin="0.5s" repeatCount="indefinite"/></circle><circle cx="250" cy="180" r="1.2" fill="#1d6fbf"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.5s" begin="0.75s" repeatCount="indefinite"/></circle><circle cx="690" cy="140" r="1.7" fill="#1d6fbf"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.9s" begin="1.0s" repeatCount="indefinite"/></circle><circle cx="90" cy="160" r="1.2" fill="#1d6fbf"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.3s" begin="0.0s" repeatCount="indefinite"/></circle><circle cx="400" cy="150" r="1.7" fill="#1d6fbf"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.7s" begin="0.25s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g font-family="ui-monospace, Menlo, Consolas, monospace">
+    <rect x="16" y="14" width="156" height="26" rx="6" fill="#fffdf8" stroke="#e0d2ba"/>
+    <circle cx="32" cy="27" r="4" fill="#e23d4a">
+      <animate attributeName="opacity" values="1;0.25;1" dur="0.9s" repeatCount="indefinite"/>
+    </circle>
+    <text x="44" y="31" fill="#1c2430" font-size="12" letter-spacing="1">GLITCH SWARM</text>
+    <rect x="742" y="14" width="142" height="26" rx="6" fill="#fffdf8" stroke="#e0d2ba"/>
+    <text x="756" y="31" fill="#e8a317" font-size="12">WAVE  03</text>
+  </g>
+
+  <g>
+              <animateTransform attributeName="transform" type="translate" values="980,48;-80,66" dur="13s" begin="0s" repeatCount="indefinite"/>
+              <polygon points="0,-11 11,-2.2 5.0,11 -6.1,8.2 -9.9,-1.6" fill="#2a3a54" stroke="#526074" stroke-width="1.2"/>
+            </g><g>
+              <animateTransform attributeName="transform" type="translate" values="1010,96;-80,114" dur="9s" begin="2.2s" repeatCount="indefinite"/>
+              <polygon points="0,-7 7,-1.4 3.1,7 -3.9,5.2 -6.3,-1.1" fill="#2a3a54" stroke="#526074" stroke-width="1.2"/>
+            </g><g>
+              <animateTransform attributeName="transform" type="translate" values="1040,150;-80,168" dur="16s" begin="1.1s" repeatCount="indefinite"/>
+              <polygon points="0,-14 14,-2.8 6.3,14 -7.7,10.5 -12.6,-2.1" fill="#2a3a54" stroke="#526074" stroke-width="1.2"/>
+            </g><g>
+              <animateTransform attributeName="transform" type="translate" values="1070,70;-80,88" dur="11s" begin="4s" repeatCount="indefinite"/>
+              <polygon points="0,-8 8,-1.6 3.6,8 -4.4,6.0 -7.2,-1.2" fill="#2a3a54" stroke="#526074" stroke-width="1.2"/>
+            </g>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="28,62; 430,62; 430,92; 28,92; 28,62"
+      keyTimes="0;0.38;0.48;0.86;1"
+      dur="9s" repeatCount="indefinite"/>
+    <g transform="translate(0,0)">
+    <g transform="translate(-16,0)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 0.28;1 1" dur="0.3s" begin="0.0s" repeatCount="indefinite"/>
+        <ellipse cx="0" cy="0" rx="13" ry="7" fill="#6d4ad4" opacity="0.9"/>
+      </g>
+    </g>
+    <g transform="translate(16,0)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 0.28;1 1" dur="0.3s" begin="0.0s" repeatCount="indefinite"/>
+        <ellipse cx="0" cy="0" rx="13" ry="7" fill="#6d4ad4" opacity="0.9"/>
+      </g>
+    </g>
+    <ellipse cx="0" cy="2" rx="11" ry="9" fill="#e23d4a"/>
+    <ellipse cx="0" cy="5" rx="7" ry="5" fill="#a32030" opacity="0.45"/>
+    <circle cx="-4" cy="0" r="2.3" fill="#fbf6ec"/>
+    <circle cx="4" cy="0" r="2.3" fill="#fbf6ec"/>
+    <circle cx="-3.2" cy="0.4" r="1.1" fill="#1c2430"/>
+    <circle cx="4.8" cy="0.4" r="1.1" fill="#1c2430"/>
+    <line x1="-4" y1="-8" x2="-8" y2="-14" stroke="#e23d4a" stroke-width="1.4"/>
+    <line x1="4" y1="-8" x2="8" y2="-14" stroke="#e23d4a" stroke-width="1.4"/>
+    <circle cx="-8" cy="-14" r="1.6" fill="#e8a317"/>
+    <circle cx="8" cy="-14" r="1.6" fill="#e8a317"/>
+    </g><g transform="translate(86,0)">
+    <g transform="translate(-16,0)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 0.28;1 1" dur="0.35s" begin="0.06s" repeatCount="indefinite"/>
+        <ellipse cx="0" cy="0" rx="13" ry="7" fill="#6d4ad4" opacity="0.9"/>
+      </g>
+    </g>
+    <g transform="translate(16,0)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 0.28;1 1" dur="0.35s" begin="0.06s" repeatCount="indefinite"/>
+        <ellipse cx="0" cy="0" rx="13" ry="7" fill="#6d4ad4" opacity="0.9"/>
+      </g>
+    </g>
+    <ellipse cx="0" cy="2" rx="11" ry="9" fill="#e23d4a"/>
+    <ellipse cx="0" cy="5" rx="7" ry="5" fill="#a32030" opacity="0.45"/>
+    <circle cx="-4" cy="0" r="2.3" fill="#fbf6ec"/>
+    <circle cx="4" cy="0" r="2.3" fill="#fbf6ec"/>
+    <circle cx="-3.2" cy="0.4" r="1.1" fill="#1c2430"/>
+    <circle cx="4.8" cy="0.4" r="1.1" fill="#1c2430"/>
+    <line x1="-4" y1="-8" x2="-8" y2="-14" stroke="#e23d4a" stroke-width="1.4"/>
+    <line x1="4" y1="-8" x2="8" y2="-14" stroke="#e23d4a" stroke-width="1.4"/>
+    <circle cx="-8" cy="-14" r="1.6" fill="#e8a317"/>
+    <circle cx="8" cy="-14" r="1.6" fill="#e8a317"/>
+    </g><g transform="translate(172,0)">
+    <g transform="translate(-16,0)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 0.28;1 1" dur="0.4s" begin="0.12s" repeatCount="indefinite"/>
+        <ellipse cx="0" cy="0" rx="13" ry="7" fill="#6d4ad4" opacity="0.9"/>
+      </g>
+    </g>
+    <g transform="translate(16,0)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 0.28;1 1" dur="0.4s" begin="0.12s" repeatCount="indefinite"/>
+        <ellipse cx="0" cy="0" rx="13" ry="7" fill="#6d4ad4" opacity="0.9"/>
+      </g>
+    </g>
+    <ellipse cx="0" cy="2" rx="11" ry="9" fill="#e23d4a"/>
+    <ellipse cx="0" cy="5" rx="7" ry="5" fill="#a32030" opacity="0.45"/>
+    <circle cx="-4" cy="0" r="2.3" fill="#fbf6ec"/>
+    <circle cx="4" cy="0" r="2.3" fill="#fbf6ec"/>
+    <circle cx="-3.2" cy="0.4" r="1.1" fill="#1c2430"/>
+    <circle cx="4.8" cy="0.4" r="1.1" fill="#1c2430"/>
+    <line x1="-4" y1="-8" x2="-8" y2="-14" stroke="#e23d4a" stroke-width="1.4"/>
+    <line x1="4" y1="-8" x2="8" y2="-14" stroke="#e23d4a" stroke-width="1.4"/>
+    <circle cx="-8" cy="-14" r="1.6" fill="#e8a317"/>
+    <circle cx="8" cy="-14" r="1.6" fill="#e8a317"/>
+    </g><g transform="translate(258,0)">
+    <g transform="translate(-16,0)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 0.28;1 1" dur="0.3s" begin="0.18s" repeatCount="indefinite"/>
+        <ellipse cx="0" cy="0" rx="13" ry="7" fill="#6d4ad4" opacity="0.9"/>
+      </g>
+    </g>
+    <g transform="translate(16,0)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 0.28;1 1" dur="0.3s" begin="0.18s" repeatCount="indefinite"/>
+        <ellipse cx="0" cy="0" rx="13" ry="7" fill="#6d4ad4" opacity="0.9"/>
+      </g>
+    </g>
+    <ellipse cx="0" cy="2" rx="11" ry="9" fill="#e23d4a"/>
+    <ellipse cx="0" cy="5" rx="7" ry="5" fill="#a32030" opacity="0.45"/>
+    <circle cx="-4" cy="0" r="2.3" fill="#fbf6ec"/>
+    <circle cx="4" cy="0" r="2.3" fill="#fbf6ec"/>
+    <circle cx="-3.2" cy="0.4" r="1.1" fill="#1c2430"/>
+    <circle cx="4.8" cy="0.4" r="1.1" fill="#1c2430"/>
+    <line x1="-4" y1="-8" x2="-8" y2="-14" stroke="#e23d4a" stroke-width="1.4"/>
+    <line x1="4" y1="-8" x2="8" y2="-14" stroke="#e23d4a" stroke-width="1.4"/>
+    <circle cx="-8" cy="-14" r="1.6" fill="#e8a317"/>
+    <circle cx="8" cy="-14" r="1.6" fill="#e8a317"/>
+    </g><g transform="translate(344,0)">
+    <g transform="translate(-16,0)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 0.28;1 1" dur="0.35s" begin="0.24s" repeatCount="indefinite"/>
+        <ellipse cx="0" cy="0" rx="13" ry="7" fill="#6d4ad4" opacity="0.9"/>
+      </g>
+    </g>
+    <g transform="translate(16,0)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 0.28;1 1" dur="0.35s" begin="0.24s" repeatCount="indefinite"/>
+        <ellipse cx="0" cy="0" rx="13" ry="7" fill="#6d4ad4" opacity="0.9"/>
+      </g>
+    </g>
+    <ellipse cx="0" cy="2" rx="11" ry="9" fill="#e23d4a"/>
+    <ellipse cx="0" cy="5" rx="7" ry="5" fill="#a32030" opacity="0.45"/>
+    <circle cx="-4" cy="0" r="2.3" fill="#fbf6ec"/>
+    <circle cx="4" cy="0" r="2.3" fill="#fbf6ec"/>
+    <circle cx="-3.2" cy="0.4" r="1.1" fill="#1c2430"/>
+    <circle cx="4.8" cy="0.4" r="1.1" fill="#1c2430"/>
+    <line x1="-4" y1="-8" x2="-8" y2="-14" stroke="#e23d4a" stroke-width="1.4"/>
+    <line x1="4" y1="-8" x2="8" y2="-14" stroke="#e23d4a" stroke-width="1.4"/>
+    <circle cx="-8" cy="-14" r="1.6" fill="#e8a317"/>
+    <circle cx="8" cy="-14" r="1.6" fill="#e8a317"/>
+    </g><g transform="translate(0,46)">
+    <g transform="translate(-16,0)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 0.28;1 1" dur="0.35s" begin="0.0s" repeatCount="indefinite"/>
+        <ellipse cx="0" cy="0" rx="13" ry="7" fill="#6d4ad4" opacity="0.9"/>
+      </g>
+    </g>
+    <g transform="translate(16,0)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 0.28;1 1" dur="0.35s" begin="0.0s" repeatCount="indefinite"/>
+        <ellipse cx="0" cy="0" rx="13" ry="7" fill="#6d4ad4" opacity="0.9"/>
+      </g>
+    </g>
+    <ellipse cx="0" cy="2" rx="11" ry="9" fill="#e23d4a"/>
+    <ellipse cx="0" cy="5" rx="7" ry="5" fill="#a32030" opacity="0.45"/>
+    <circle cx="-4" cy="0" r="2.3" fill="#fbf6ec"/>
+    <circle cx="4" cy="0" r="2.3" fill="#fbf6ec"/>
+    <circle cx="-3.2" cy="0.4" r="1.1" fill="#1c2430"/>
+    <circle cx="4.8" cy="0.4" r="1.1" fill="#1c2430"/>
+    <line x1="-4" y1="-8" x2="-8" y2="-14" stroke="#e23d4a" stroke-width="1.4"/>
+    <line x1="4" y1="-8" x2="8" y2="-14" stroke="#e23d4a" stroke-width="1.4"/>
+    <circle cx="-8" cy="-14" r="1.6" fill="#e8a317"/>
+    <circle cx="8" cy="-14" r="1.6" fill="#e8a317"/>
+    </g><g transform="translate(86,46)">
+    <g transform="translate(-16,0)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 0.28;1 1" dur="0.4s" begin="0.06s" repeatCount="indefinite"/>
+        <ellipse cx="0" cy="0" rx="13" ry="7" fill="#6d4ad4" opacity="0.9"/>
+      </g>
+    </g>
+    <g transform="translate(16,0)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 0.28;1 1" dur="0.4s" begin="0.06s" repeatCount="indefinite"/>
+        <ellipse cx="0" cy="0" rx="13" ry="7" fill="#6d4ad4" opacity="0.9"/>
+      </g>
+    </g>
+    <ellipse cx="0" cy="2" rx="11" ry="9" fill="#e23d4a"/>
+    <ellipse cx="0" cy="5" rx="7" ry="5" fill="#a32030" opacity="0.45"/>
+    <circle cx="-4" cy="0" r="2.3" fill="#fbf6ec"/>
+    <circle cx="4" cy="0" r="2.3" fill="#fbf6ec"/>
+    <circle cx="-3.2" cy="0.4" r="1.1" fill="#1c2430"/>
+    <circle cx="4.8" cy="0.4" r="1.1" fill="#1c2430"/>
+    <line x1="-4" y1="-8" x2="-8" y2="-14" stroke="#e23d4a" stroke-width="1.4"/>
+    <line x1="4" y1="-8" x2="8" y2="-14" stroke="#e23d4a" stroke-width="1.4"/>
+    <circle cx="-8" cy="-14" r="1.6" fill="#e8a317"/>
+    <circle cx="8" cy="-14" r="1.6" fill="#e8a317"/>
+    </g><g transform="translate(172,46)">
+    <g transform="translate(-16,0)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 0.28;1 1" dur="0.3s" begin="0.12s" repeatCount="indefinite"/>
+        <ellipse cx="0" cy="0" rx="13" ry="7" fill="#6d4ad4" opacity="0.9"/>
+      </g>
+    </g>
+    <g transform="translate(16,0)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 0.28;1 1" dur="0.3s" begin="0.12s" repeatCount="indefinite"/>
+        <ellipse cx="0" cy="0" rx="13" ry="7" fill="#6d4ad4" opacity="0.9"/>
+      </g>
+    </g>
+    <ellipse cx="0" cy="2" rx="11" ry="9" fill="#e23d4a"/>
+    <ellipse cx="0" cy="5" rx="7" ry="5" fill="#a32030" opacity="0.45"/>
+    <circle cx="-4" cy="0" r="2.3" fill="#fbf6ec"/>
+    <circle cx="4" cy="0" r="2.3" fill="#fbf6ec"/>
+    <circle cx="-3.2" cy="0.4" r="1.1" fill="#1c2430"/>
+    <circle cx="4.8" cy="0.4" r="1.1" fill="#1c2430"/>
+    <line x1="-4" y1="-8" x2="-8" y2="-14" stroke="#e23d4a" stroke-width="1.4"/>
+    <line x1="4" y1="-8" x2="8" y2="-14" stroke="#e23d4a" stroke-width="1.4"/>
+    <circle cx="-8" cy="-14" r="1.6" fill="#e8a317"/>
+    <circle cx="8" cy="-14" r="1.6" fill="#e8a317"/>
+    </g><g transform="translate(258,46)">
+    <g transform="translate(-16,0)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 0.28;1 1" dur="0.35s" begin="0.18s" repeatCount="indefinite"/>
+        <ellipse cx="0" cy="0" rx="13" ry="7" fill="#6d4ad4" opacity="0.9"/>
+      </g>
+    </g>
+    <g transform="translate(16,0)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 0.28;1 1" dur="0.35s" begin="0.18s" repeatCount="indefinite"/>
+        <ellipse cx="0" cy="0" rx="13" ry="7" fill="#6d4ad4" opacity="0.9"/>
+      </g>
+    </g>
+    <ellipse cx="0" cy="2" rx="11" ry="9" fill="#e23d4a"/>
+    <ellipse cx="0" cy="5" rx="7" ry="5" fill="#a32030" opacity="0.45"/>
+    <circle cx="-4" cy="0" r="2.3" fill="#fbf6ec"/>
+    <circle cx="4" cy="0" r="2.3" fill="#fbf6ec"/>
+    <circle cx="-3.2" cy="0.4" r="1.1" fill="#1c2430"/>
+    <circle cx="4.8" cy="0.4" r="1.1" fill="#1c2430"/>
+    <line x1="-4" y1="-8" x2="-8" y2="-14" stroke="#e23d4a" stroke-width="1.4"/>
+    <line x1="4" y1="-8" x2="8" y2="-14" stroke="#e23d4a" stroke-width="1.4"/>
+    <circle cx="-8" cy="-14" r="1.6" fill="#e8a317"/>
+    <circle cx="8" cy="-14" r="1.6" fill="#e8a317"/>
+    </g><g transform="translate(344,46)">
+    <g transform="translate(-16,0)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 0.28;1 1" dur="0.4s" begin="0.24s" repeatCount="indefinite"/>
+        <ellipse cx="0" cy="0" rx="13" ry="7" fill="#6d4ad4" opacity="0.9"/>
+      </g>
+    </g>
+    <g transform="translate(16,0)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 0.28;1 1" dur="0.4s" begin="0.24s" repeatCount="indefinite"/>
+        <ellipse cx="0" cy="0" rx="13" ry="7" fill="#6d4ad4" opacity="0.9"/>
+      </g>
+    </g>
+    <ellipse cx="0" cy="2" rx="11" ry="9" fill="#e23d4a"/>
+    <ellipse cx="0" cy="5" rx="7" ry="5" fill="#a32030" opacity="0.45"/>
+    <circle cx="-4" cy="0" r="2.3" fill="#fbf6ec"/>
+    <circle cx="4" cy="0" r="2.3" fill="#fbf6ec"/>
+    <circle cx="-3.2" cy="0.4" r="1.1" fill="#1c2430"/>
+    <circle cx="4.8" cy="0.4" r="1.1" fill="#1c2430"/>
+    <line x1="-4" y1="-8" x2="-8" y2="-14" stroke="#e23d4a" stroke-width="1.4"/>
+    <line x1="4" y1="-8" x2="8" y2="-14" stroke="#e23d4a" stroke-width="1.4"/>
+    <circle cx="-8" cy="-14" r="1.6" fill="#e8a317"/>
+    <circle cx="8" cy="-14" r="1.6" fill="#e8a317"/>
+    </g><g transform="translate(0,92)">
+    <g transform="translate(-16,0)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 0.28;1 1" dur="0.4s" begin="0.0s" repeatCount="indefinite"/>
+        <ellipse cx="0" cy="0" rx="13" ry="7" fill="#6d4ad4" opacity="0.9"/>
+      </g>
+    </g>
+    <g transform="translate(16,0)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 0.28;1 1" dur="0.4s" begin="0.0s" repeatCount="indefinite"/>
+        <ellipse cx="0" cy="0" rx="13" ry="7" fill="#6d4ad4" opacity="0.9"/>
+      </g>
+    </g>
+    <ellipse cx="0" cy="2" rx="11" ry="9" fill="#e23d4a"/>
+    <ellipse cx="0" cy="5" rx="7" ry="5" fill="#a32030" opacity="0.45"/>
+    <circle cx="-4" cy="0" r="2.3" fill="#fbf6ec"/>
+    <circle cx="4" cy="0" r="2.3" fill="#fbf6ec"/>
+    <circle cx="-3.2" cy="0.4" r="1.1" fill="#1c2430"/>
+    <circle cx="4.8" cy="0.4" r="1.1" fill="#1c2430"/>
+    <line x1="-4" y1="-8" x2="-8" y2="-14" stroke="#e23d4a" stroke-width="1.4"/>
+    <line x1="4" y1="-8" x2="8" y2="-14" stroke="#e23d4a" stroke-width="1.4"/>
+    <circle cx="-8" cy="-14" r="1.6" fill="#e8a317"/>
+    <circle cx="8" cy="-14" r="1.6" fill="#e8a317"/>
+    </g><g transform="translate(86,92)">
+    <g transform="translate(-16,0)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 0.28;1 1" dur="0.3s" begin="0.06s" repeatCount="indefinite"/>
+        <ellipse cx="0" cy="0" rx="13" ry="7" fill="#6d4ad4" opacity="0.9"/>
+      </g>
+    </g>
+    <g transform="translate(16,0)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 0.28;1 1" dur="0.3s" begin="0.06s" repeatCount="indefinite"/>
+        <ellipse cx="0" cy="0" rx="13" ry="7" fill="#6d4ad4" opacity="0.9"/>
+      </g>
+    </g>
+    <ellipse cx="0" cy="2" rx="11" ry="9" fill="#e23d4a"/>
+    <ellipse cx="0" cy="5" rx="7" ry="5" fill="#a32030" opacity="0.45"/>
+    <circle cx="-4" cy="0" r="2.3" fill="#fbf6ec"/>
+    <circle cx="4" cy="0" r="2.3" fill="#fbf6ec"/>
+    <circle cx="-3.2" cy="0.4" r="1.1" fill="#1c2430"/>
+    <circle cx="4.8" cy="0.4" r="1.1" fill="#1c2430"/>
+    <line x1="-4" y1="-8" x2="-8" y2="-14" stroke="#e23d4a" stroke-width="1.4"/>
+    <line x1="4" y1="-8" x2="8" y2="-14" stroke="#e23d4a" stroke-width="1.4"/>
+    <circle cx="-8" cy="-14" r="1.6" fill="#e8a317"/>
+    <circle cx="8" cy="-14" r="1.6" fill="#e8a317"/>
+    </g><g transform="translate(172,92)">
+    <g transform="translate(-16,0)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 0.28;1 1" dur="0.35s" begin="0.12s" repeatCount="indefinite"/>
+        <ellipse cx="0" cy="0" rx="13" ry="7" fill="#6d4ad4" opacity="0.9"/>
+      </g>
+    </g>
+    <g transform="translate(16,0)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 0.28;1 1" dur="0.35s" begin="0.12s" repeatCount="indefinite"/>
+        <ellipse cx="0" cy="0" rx="13" ry="7" fill="#6d4ad4" opacity="0.9"/>
+      </g>
+    </g>
+    <ellipse cx="0" cy="2" rx="11" ry="9" fill="#e23d4a"/>
+    <ellipse cx="0" cy="5" rx="7" ry="5" fill="#a32030" opacity="0.45"/>
+    <circle cx="-4" cy="0" r="2.3" fill="#fbf6ec"/>
+    <circle cx="4" cy="0" r="2.3" fill="#fbf6ec"/>
+    <circle cx="-3.2" cy="0.4" r="1.1" fill="#1c2430"/>
+    <circle cx="4.8" cy="0.4" r="1.1" fill="#1c2430"/>
+    <line x1="-4" y1="-8" x2="-8" y2="-14" stroke="#e23d4a" stroke-width="1.4"/>
+    <line x1="4" y1="-8" x2="8" y2="-14" stroke="#e23d4a" stroke-width="1.4"/>
+    <circle cx="-8" cy="-14" r="1.6" fill="#e8a317"/>
+    <circle cx="8" cy="-14" r="1.6" fill="#e8a317"/>
+    </g><g transform="translate(258,92)">
+    <g transform="translate(-16,0)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 0.28;1 1" dur="0.4s" begin="0.18s" repeatCount="indefinite"/>
+        <ellipse cx="0" cy="0" rx="13" ry="7" fill="#6d4ad4" opacity="0.9"/>
+      </g>
+    </g>
+    <g transform="translate(16,0)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 0.28;1 1" dur="0.4s" begin="0.18s" repeatCount="indefinite"/>
+        <ellipse cx="0" cy="0" rx="13" ry="7" fill="#6d4ad4" opacity="0.9"/>
+      </g>
+    </g>
+    <ellipse cx="0" cy="2" rx="11" ry="9" fill="#e23d4a"/>
+    <ellipse cx="0" cy="5" rx="7" ry="5" fill="#a32030" opacity="0.45"/>
+    <circle cx="-4" cy="0" r="2.3" fill="#fbf6ec"/>
+    <circle cx="4" cy="0" r="2.3" fill="#fbf6ec"/>
+    <circle cx="-3.2" cy="0.4" r="1.1" fill="#1c2430"/>
+    <circle cx="4.8" cy="0.4" r="1.1" fill="#1c2430"/>
+    <line x1="-4" y1="-8" x2="-8" y2="-14" stroke="#e23d4a" stroke-width="1.4"/>
+    <line x1="4" y1="-8" x2="8" y2="-14" stroke="#e23d4a" stroke-width="1.4"/>
+    <circle cx="-8" cy="-14" r="1.6" fill="#e8a317"/>
+    <circle cx="8" cy="-14" r="1.6" fill="#e8a317"/>
+    </g><g transform="translate(344,92)">
+    <g transform="translate(-16,0)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 0.28;1 1" dur="0.3s" begin="0.24s" repeatCount="indefinite"/>
+        <ellipse cx="0" cy="0" rx="13" ry="7" fill="#6d4ad4" opacity="0.9"/>
+      </g>
+    </g>
+    <g transform="translate(16,0)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 0.28;1 1" dur="0.3s" begin="0.24s" repeatCount="indefinite"/>
+        <ellipse cx="0" cy="0" rx="13" ry="7" fill="#6d4ad4" opacity="0.9"/>
+      </g>
+    </g>
+    <ellipse cx="0" cy="2" rx="11" ry="9" fill="#e23d4a"/>
+    <ellipse cx="0" cy="5" rx="7" ry="5" fill="#a32030" opacity="0.45"/>
+    <circle cx="-4" cy="0" r="2.3" fill="#fbf6ec"/>
+    <circle cx="4" cy="0" r="2.3" fill="#fbf6ec"/>
+    <circle cx="-3.2" cy="0.4" r="1.1" fill="#1c2430"/>
+    <circle cx="4.8" cy="0.4" r="1.1" fill="#1c2430"/>
+    <line x1="-4" y1="-8" x2="-8" y2="-14" stroke="#e23d4a" stroke-width="1.4"/>
+    <line x1="4" y1="-8" x2="8" y2="-14" stroke="#e23d4a" stroke-width="1.4"/>
+    <circle cx="-8" cy="-14" r="1.6" fill="#e8a317"/>
+    <circle cx="8" cy="-14" r="1.6" fill="#e8a317"/>
+    </g>
+  </g>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="90,214; 790,214; 90,214"
+      keyTimes="0;0.5;1"
+      dur="6.5s" repeatCount="indefinite" calcMode="spline"
+      keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+    
+    <ellipse cx="0" cy="18" rx="5" ry="8" fill="#e8a317">
+      <animate attributeName="ry" values="5;10;5" dur="0.18s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.95;0.45;0.95" dur="0.18s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="0" cy="16" rx="2.4" ry="5" fill="#fffdf8" opacity="0.8">
+      <animate attributeName="ry" values="3;6;3" dur="0.18s" repeatCount="indefinite"/>
+    </ellipse>
+    <polygon points="-20,8 -8,2 -14,16" fill="#0e8f78"/>
+    <polygon points="20,8 8,2 14,16" fill="#0e8f78"/>
+    <polygon points="0,-18 16,14 -16,14" fill="#1c2430"/>
+    <polygon points="0,-8 8,12 -8,12" fill="#1d6fbf"/>
+    <circle cx="0" cy="-1" r="3" fill="#e8a317"/>
+    <rect x="-1.6" y="-70" width="3.2" height="36" rx="1.4" fill="#0e8f78">
+      <animate attributeName="y" values="-16;-230" dur="0.85s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.72;1" dur="0.85s" repeatCount="indefinite"/>
+    </rect>
+    
+  </g>
+
+  <rect y="236" width="900" height="14" fill="#efe4cf"/>
+  <rect y="236" width="900" height="2" fill="#0e8f78" opacity="0.7"/>
+  <rect x="0.5" y="0.5" width="899" height="249" fill="none" stroke="#e4d8c4"/>
+</svg>
