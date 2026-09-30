@@ -7,21 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="mailto:mahmoud.inquire@gmail.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/comms-mail-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./assets/comms-mail-light.svg">
-      <img alt="mahmoud.inquire@gmail.com" src="./assets/comms-mail-dark.svg">
-    </picture>
-  </a>
-  <br>
-  <a href="https://linkedin.com/in/mahmoudnabil-176">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/comms-linkedin-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./assets/comms-linkedin-light.svg">
-      <img alt="linkedin.com/in/mahmoudnabil-176" src="./assets/comms-linkedin-dark.svg">
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/comms-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/comms-light.svg">
+    <img alt="mahmoud.inquire@gmail.com · linkedin.com/in/mahmoudnabil-176" src="./assets/comms-dark.svg">
+  </picture>
 </p>
 
 <p align="center">
