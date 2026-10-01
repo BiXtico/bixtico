@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170" role="img">
+  <title>Pendulums of different lengths swinging together.</title>
+  <rect width="900" height="170" fill="#fbf6ec"/>
+  <g transform="translate(70,0)">
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="-28;28;-28" dur="1.6s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+        <line x1="0" y1="0" x2="0" y2="52" stroke="#e4d8c4" stroke-width="2"/>
+        <circle cy="52" r="16" fill="#0e8f78"/>
+      </g>
+    </g><g transform="translate(210,0)">
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="-28;28;-28" dur="2.1s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+        <line x1="0" y1="0" x2="0" y2="108" stroke="#e4d8c4" stroke-width="2"/>
+        <circle cy="108" r="24" fill="#c48a12"/>
+      </g>
+    </g><g transform="translate(360,0)">
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="-28;28;-28" dur="1.3s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+        <line x1="0" y1="0" x2="0" y2="70" stroke="#e4d8c4" stroke-width="2"/>
+        <circle cy="70" r="14" fill="#c43b4a"/>
+      </g>
+    </g><g transform="translate(500,0)">
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="-28;28;-28" dur="2.4s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+        <line x1="0" y1="0" x2="0" y2="132" stroke="#e4d8c4" stroke-width="2"/>
+        <circle cy="132" r="26" fill="#1d6fbf"/>
+      </g>
+    </g><g transform="translate(660,0)">
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="-28;28;-28" dur="1.8s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+        <line x1="0" y1="0" x2="0" y2="86" stroke="#e4d8c4" stroke-width="2"/>
+        <circle cy="86" r="18" fill="#6d4ad4"/>
+      </g>
+    </g><g transform="translate(810,0)">
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="-28;28;-28" dur="2.2s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+        <line x1="0" y1="0" x2="0" y2="118" stroke="#e4d8c4" stroke-width="2"/>
+        <circle cy="118" r="20" fill="#0e8f78"/>
+      </g>
+    </g>
+  <rect x="0.5" y="0.5" width="899" height="169" fill="none" stroke="#e4d8c4"/>
+</svg>
