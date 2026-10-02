@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img">
+  <title>A mushroom-headed fighter dashes, jumps, dodges, and strikes through a twenty second bout.</title>
+  <rect width="900" height="220" fill="#fbf6ec"/>
+  <circle cx="50" cy="24" r="1.2" fill="#1d6fbf"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="1.8s" repeatCount="indefinite"/></circle><circle cx="180" cy="40" r="1.2" fill="#1d6fbf"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.1s" repeatCount="indefinite"/></circle><circle cx="340" cy="18" r="1.2" fill="#1d6fbf"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.4s" repeatCount="indefinite"/></circle><circle cx="520" cy="34" r="1.2" fill="#1d6fbf"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.7s" repeatCount="indefinite"/></circle><circle cx="700" cy="16" r="1.2" fill="#1d6fbf"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.0s" repeatCount="indefinite"/></circle><circle cx="840" cy="28" r="1.2" fill="#1d6fbf"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.3s" repeatCount="indefinite"/></circle>
+  <rect x="16" y="194" width="868" height="8" rx="4" fill="#efe4cf"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0,0;-36,0" dur="0.45s" repeatCount="indefinite"/><rect x="0" y="196" width="16" height="3" rx="1" fill="#0e8f78" opacity="0.45"/><rect x="36" y="196" width="16" height="3" rx="1" fill="#0e8f78" opacity="0.45"/><rect x="72" y="196" width="16" height="3" rx="1" fill="#0e8f78" opacity="0.45"/><rect x="108" y="196" width="16" height="3" rx="1" fill="#0e8f78" opacity="0.45"/><rect x="144" y="196" width="16" height="3" rx="1" fill="#0e8f78" opacity="0.45"/><rect x="180" y="196" width="16" height="3" rx="1" fill="#0e8f78" opacity="0.45"/><rect x="216" y="196" width="16" height="3" rx="1" fill="#0e8f78" opacity="0.45"/><rect x="252" y="196" width="16" height="3" rx="1" fill="#0e8f78" opacity="0.45"/><rect x="288" y="196" width="16" height="3" rx="1" fill="#0e8f78" opacity="0.45"/><rect x="324" y="196" width="16" height="3" rx="1" fill="#0e8f78" opacity="0.45"/><rect x="360" y="196" width="16" height="3" rx="1" fill="#0e8f78" opacity="0.45"/><rect x="396" y="196" width="16" height="3" rx="1" fill="#0e8f78" opacity="0.45"/><rect x="432" y="196" width="16" height="3" rx="1" fill="#0e8f78" opacity="0.45"/><rect x="468" y="196" width="16" height="3" rx="1" fill="#0e8f78" opacity="0.45"/><rect x="504" y="196" width="16" height="3" rx="1" fill="#0e8f78" opacity="0.45"/><rect x="540" y="196" width="16" height="3" rx="1" fill="#0e8f78" opacity="0.45"/><rect x="576" y="196" width="16" height="3" rx="1" fill="#0e8f78" opacity="0.45"/><rect x="612" y="196" width="16" height="3" rx="1" fill="#0e8f78" opacity="0.45"/><rect x="648" y="196" width="16" height="3" rx="1" fill="#0e8f78" opacity="0.45"/><rect x="684" y="196" width="16" height="3" rx="1" fill="#0e8f78" opacity="0.45"/><rect x="720" y="196" width="16" height="3" rx="1" fill="#0e8f78" opacity="0.45"/><rect x="756" y="196" width="16" height="3" rx="1" fill="#0e8f78" opacity="0.45"/><rect x="792" y="196" width="16" height="3" rx="1" fill="#0e8f78" opacity="0.45"/><rect x="828" y="196" width="16" height="3" rx="1" fill="#0e8f78" opacity="0.45"/><rect x="864" y="196" width="16" height="3" rx="1" fill="#0e8f78" opacity="0.45"/><rect x="900" y="196" width="16" height="3" rx="1" fill="#0e8f78" opacity="0.45"/><rect x="936" y="196" width="16" height="3" rx="1" fill="#0e8f78" opacity="0.45"/><rect x="972" y="196" width="16" height="3" rx="1" fill="#0e8f78" opacity="0.45"/></g>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="700,150; 640,150; 820,168; 700,140; 560,150; 840,160; 720,150"
+      keyTimes="0;0.22;0.34;0.5;0.66;0.78;1"
+      dur="20s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-16;0,0" dur="0.7s" repeatCount="indefinite"/>
+      
+      <polygon points="0,-16 16,6 0,20 -16,6" fill="#c9b6ff"/>
+      <rect x="-8" y="0" width="5" height="5" fill="#1a1020"/>
+      <rect x="3" y="0" width="5" height="5" fill="#1a1020"/>
+      <rect x="-2" y="8" width="6" height="3" fill="#1a1020"/>
+    </g>
+  </g>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="820,168; 760,168; 860,120; 860,180; 640,168; 880,150; 820,168"
+      keyTimes="0;0.2;0.32;0.42;0.62;0.8;1"
+      dur="20s" repeatCount="indefinite"/>
+    
+      <rect x="-14" y="-12" width="28" height="26" rx="3" fill="#ff8b7a"/>
+      <polygon points="-14,-6 -22,2 -14,6" fill="#ff8b7a"/>
+      <polygon points="14,-6 22,2 14,6" fill="#ff8b7a"/>
+      <rect x="-8" y="-4" width="5" height="5" fill="#1a1020"/>
+      <rect x="3" y="-4" width="5" height="5" fill="#1a1020"/>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.4;0.48;0.84;0.92;1" dur="20s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="900,160; 900,160; 620,150; 780,120; 900,170; 900,170"
+      keyTimes="0;0.4;0.55;0.72;0.9;1"
+      dur="20s" repeatCount="indefinite"/>
+    <circle r="12" fill="#8ecbff"/>
+    <rect x="-7" y="-4" width="4" height="4" fill="#1a1020"/>
+    <rect x="3" y="-4" width="4" height="4" fill="#1a1020"/>
+  </g>
+
+  <g>
+    <animate attributeName="opacity" values="0;1;0;0;1;0;0" keyTimes="0;0.32;0.4;0.68;0.74;0.82;1" dur="20s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="520,150; 560,140; 560,140; 640,130; 680,120; 680,120"
+      keyTimes="0;0.3;0.45;0.68;0.76;1"
+      dur="20s" repeatCount="indefinite"/>
+    <polygon points="0,-8 8,6 -8,6" fill="#c48a12"/>
+  </g>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="120,112; 180,112; 460,112; 500,60; 500,112; 300,112; 540,70; 540,112; 180,112; 120,112"
+      keyTimes="0;0.12;0.28;0.36;0.44;0.58;0.7;0.78;0.92;1"
+      dur="20s" repeatCount="indefinite"/>
+    
+    <g>
+      <animateTransform attributeName="transform" type="rotate"
+        values="0;0;-22;0;0;300;0;0"
+        keyTimes="0;0.52;0.58;0.64;0.72;0.80;0.84;1"
+        dur="20s" repeatCount="indefinite"/>
+      <ellipse cx="28" cy="82" rx="16" ry="3" fill="#1a1020" opacity="0.25"/>
+      <rect x="10" y="4" width="36" height="18" rx="8" fill="#e23d4a"/>
+      <rect x="4" y="16" width="48" height="10" rx="4" fill="#9c1f32"/>
+      <rect x="16" y="6" width="8" height="6" rx="2" fill="#fffdf8"/>
+      <rect x="30" y="8" width="6" height="5" rx="2" fill="#fffdf8" opacity="0.85"/>
+      <rect x="18" y="26" width="20" height="10" rx="3" fill="#e2b48a"/>
+      <rect x="22" y="29" width="4" height="4" fill="#1a1020"/>
+      <rect x="30" y="29" width="4" height="4" fill="#1a1020"/>
+      <rect x="14" y="36" width="28" height="22" rx="4" fill="#0e8f78"/>
+      <rect x="22" y="40" width="12" height="10" rx="2" fill="#0a5c4e"/>
+      <g transform="translate(40,38)">
+        <g>
+          <animateTransform attributeName="transform" type="rotate"
+            values="20;20;-78;20;20;-90;20;20"
+            keyTimes="0;0.26;0.32;0.40;0.64;0.70;0.78;1"
+            dur="20s" repeatCount="indefinite"/>
+          <rect width="8" height="16" rx="3" fill="#0e8f78"/>
+          <rect y="12" width="8" height="7" rx="2" fill="#e2b48a"/>
+        </g>
+      </g>
+      <g transform="translate(12,40)">
+        <g>
+          <animateTransform attributeName="transform" type="rotate"
+            values="-10;-10;30;-10;40;-10;-10"
+            keyTimes="0;0.26;0.34;0.5;0.7;0.82;1"
+            dur="20s" repeatCount="indefinite"/>
+          <rect x="-8" width="8" height="14" rx="3" fill="#0a5c4e"/>
+        </g>
+      </g>
+      <g transform="translate(20,58)">
+        <g>
+          <animateTransform attributeName="transform" type="rotate" values="-18;22;-18" dur="0.38s" repeatCount="indefinite"/>
+          <rect x="-4" width="7" height="16" rx="2" fill="#1c2430"/>
+          <rect y="13" x="-5" width="9" height="5" rx="1" fill="#c48a12"/>
+        </g>
+      </g>
+      <g transform="translate(34,58)">
+        <g>
+          <animateTransform attributeName="transform" type="rotate" values="22;-18;22" dur="0.38s" repeatCount="indefinite"/>
+          <rect x="-3" width="7" height="16" rx="2" fill="#1c2430"/>
+          <rect y="13" x="-4" width="9" height="5" rx="1" fill="#c48a12"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="899" height="219" fill="none" stroke="#e4d8c4"/>
+</svg>
