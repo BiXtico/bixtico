@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620" role="img">
-  <title>A duck in a mushroom cap throws a ball through three rooms, then the tools roll by.</title>
+  <title>A mushroom-headed fighter throws a ball through three rooms, then the tools roll by.</title>
   <rect width="900" height="620" fill="#070b14"/>
   <circle cx="40" cy="28" r="1.1" fill="#f7f4ea" opacity="0.7"><animate attributeName="opacity" values="0.15;0.8;0.15" dur="1.8s" repeatCount="indefinite"/></circle><circle cx="200" cy="50" r="1.1" fill="#f7f4ea" opacity="0.7"><animate attributeName="opacity" values="0.15;0.8;0.15" dur="2.05s" repeatCount="indefinite"/></circle><circle cx="480" cy="22" r="1.1" fill="#f7f4ea" opacity="0.7"><animate attributeName="opacity" values="0.15;0.8;0.15" dur="2.3s" repeatCount="indefinite"/></circle><circle cx="700" cy="36" r="1.1" fill="#f7f4ea" opacity="0.7"><animate attributeName="opacity" values="0.15;0.8;0.15" dur="2.55s" repeatCount="indefinite"/></circle><circle cx="840" cy="18" r="1.1" fill="#f7f4ea" opacity="0.7"><animate attributeName="opacity" values="0.15;0.8;0.15" dur="2.8s" repeatCount="indefinite"/></circle><circle cx="120" cy="300" r="1.1" fill="#f7f4ea" opacity="0.7"><animate attributeName="opacity" values="0.15;0.8;0.15" dur="3.05s" repeatCount="indefinite"/></circle><circle cx="620" cy="360" r="1.1" fill="#f7f4ea" opacity="0.7"><animate attributeName="opacity" values="0.15;0.8;0.15" dur="3.3s" repeatCount="indefinite"/></circle>
   <line x1="560" y1="0" x2="560" y2="360" stroke="#24344c"/>
@@ -12,30 +12,32 @@
       values="70,70;70,52;70,70;70,70"
       keyTimes="0;0.22;0.32;1" dur="20s" repeatCount="indefinite"/>
     <g transform="scale(2.15)">
-    <g id="duck">
-      <ellipse cx="46" cy="96" rx="22" ry="4" fill="#1a1020" opacity="0.18"/>
-      <ellipse cx="40" cy="62" rx="30" ry="24" fill="#f6c445"/>
-      <ellipse cx="62" cy="40" rx="18" ry="16" fill="#f6c445"/>
-      <ellipse cx="74" cy="44" rx="10" ry="6" fill="#f08a24"/>
-      <circle cx="66" cy="36" r="2.4" fill="#1a1020"/>
-      <rect x="46" y="8" width="34" height="16" rx="7" fill="#e10600"/>
-      <rect x="40" y="18" width="46" height="9" rx="3" fill="#b00000"/>
-      <rect x="52" y="10" width="9" height="7" rx="2" fill="#fff6ea"/>
-      <rect x="66" y="12" width="6" height="5" rx="2" fill="#fff6ea"/>
-      <path d="M28 58 L18 66 L30 68" fill="#f6c445"/>
-      <g transform="translate(18,52)">
+    <g id="fighter">
+      <ellipse cx="36" cy="98" rx="18" ry="4" fill="#1a1020" opacity="0.18"/>
+      <rect x="22" y="6" width="36" height="18" rx="8" fill="#e10600"/>
+      <rect x="16" y="18" width="48" height="10" rx="4" fill="#b00000"/>
+      <rect x="28" y="8" width="9" height="7" rx="2" fill="#fff6ea"/>
+      <rect x="42" y="10" width="6" height="5" rx="2" fill="#fff6ea"/>
+      <rect x="28" y="28" width="24" height="12" rx="4" fill="#f0c9a0"/>
+      <rect x="33" y="32" width="4" height="4" fill="#1a1020"/>
+      <rect x="43" y="32" width="4" height="4" fill="#1a1020"/>
+      <rect x="22" y="40" width="32" height="28" rx="5" fill="#5eecc4"/>
+      <rect x="32" y="46" width="12" height="12" rx="2" fill="#0f6e5c"/>
+      <g transform="translate(14,44)">
         <g>
           <animateTransform attributeName="transform" type="rotate"
-            values="10;10;-70;20;10;10"
+            values="20;20;-80;30;20;20"
             keyTimes="0;0.16;0.28;0.36;0.46;1"
             dur="20s" repeatCount="indefinite"/>
-          <ellipse cx="-6" cy="8" rx="10" ry="6" fill="#e2ac2a"/>
+          <rect x="-10" width="10" height="16" rx="4" fill="#0f6e5c"/>
+          <rect x="-10" y="12" width="10" height="7" rx="2" fill="#f0c9a0"/>
         </g>
       </g>
-      <path d="M22 66 Q40 88 60 66 L56 88 Q40 102 24 88 Z" fill="#16324f"/>
-      <polygon points="30,84 46,58 62,84" fill="#e8a317"/>
-      <polygon points="38,84 46,68 54,84" fill="#fff1c2"/>
-      <text x="66" y="86" fill="#fff6ea" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" font-weight="700">27</text>
+      <rect x="52" y="46" width="8" height="14" rx="3" fill="#5eecc4"/>
+      <rect x="24" y="68" width="8" height="22" rx="3" fill="#1c2430"/>
+      <rect x="40" y="68" width="8" height="22" rx="3" fill="#1c2430"/>
+      <rect x="22" y="86" width="12" height="6" rx="2" fill="#ffd166"/>
+      <rect x="38" y="86" width="12" height="6" rx="2" fill="#ffd166"/>
     </g></g>
   </g>
 
