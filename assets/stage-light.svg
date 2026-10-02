@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620" role="img">
+  <title>A duck in a mushroom cap throws a ball through three rooms, then the tools roll by.</title>
+  <rect width="900" height="620" fill="#fbf6ec"/>
+  <circle cx="40" cy="28" r="1.1" fill="#1d6fbf" opacity="0.7"><animate attributeName="opacity" values="0.15;0.8;0.15" dur="1.8s" repeatCount="indefinite"/></circle><circle cx="200" cy="50" r="1.1" fill="#1d6fbf" opacity="0.7"><animate attributeName="opacity" values="0.15;0.8;0.15" dur="2.05s" repeatCount="indefinite"/></circle><circle cx="480" cy="22" r="1.1" fill="#1d6fbf" opacity="0.7"><animate attributeName="opacity" values="0.15;0.8;0.15" dur="2.3s" repeatCount="indefinite"/></circle><circle cx="700" cy="36" r="1.1" fill="#1d6fbf" opacity="0.7"><animate attributeName="opacity" values="0.15;0.8;0.15" dur="2.55s" repeatCount="indefinite"/></circle><circle cx="840" cy="18" r="1.1" fill="#1d6fbf" opacity="0.7"><animate attributeName="opacity" values="0.15;0.8;0.15" dur="2.8s" repeatCount="indefinite"/></circle><circle cx="120" cy="300" r="1.1" fill="#1d6fbf" opacity="0.7"><animate attributeName="opacity" values="0.15;0.8;0.15" dur="3.05s" repeatCount="indefinite"/></circle><circle cx="620" cy="360" r="1.1" fill="#1d6fbf" opacity="0.7"><animate attributeName="opacity" values="0.15;0.8;0.15" dur="3.3s" repeatCount="indefinite"/></circle>
+  <line x1="560" y1="0" x2="560" y2="360" stroke="#e4d8c4"/>
+  <line x1="0" y1="360" x2="900" y2="360" stroke="#e4d8c4"/>
+  <line x1="300" y1="360" x2="300" y2="520" stroke="#e4d8c4"/>
+  <line x1="0" y1="520" x2="900" y2="520" stroke="#e4d8c4"/>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="70,70;70,52;70,70;70,70"
+      keyTimes="0;0.22;0.32;1" dur="20s" repeatCount="indefinite"/>
+    <g transform="scale(2.15)">
+    <g id="duck">
+      <ellipse cx="46" cy="96" rx="22" ry="4" fill="#1a1020" opacity="0.18"/>
+      <ellipse cx="40" cy="62" rx="30" ry="24" fill="#f6c445"/>
+      <ellipse cx="62" cy="40" rx="18" ry="16" fill="#f6c445"/>
+      <ellipse cx="74" cy="44" rx="10" ry="6" fill="#f08a24"/>
+      <circle cx="66" cy="36" r="2.4" fill="#1a1020"/>
+      <rect x="46" y="8" width="34" height="16" rx="7" fill="#e10600"/>
+      <rect x="40" y="18" width="46" height="9" rx="3" fill="#b00000"/>
+      <rect x="52" y="10" width="9" height="7" rx="2" fill="#fff6ea"/>
+      <rect x="66" y="12" width="6" height="5" rx="2" fill="#fff6ea"/>
+      <path d="M28 58 L18 66 L30 68" fill="#f6c445"/>
+      <g transform="translate(18,52)">
+        <g>
+          <animateTransform attributeName="transform" type="rotate"
+            values="10;10;-70;20;10;10"
+            keyTimes="0;0.16;0.28;0.36;0.46;1"
+            dur="20s" repeatCount="indefinite"/>
+          <ellipse cx="-6" cy="8" rx="10" ry="6" fill="#e2ac2a"/>
+        </g>
+      </g>
+      <path d="M22 66 Q40 88 60 66 L56 88 Q40 102 24 88 Z" fill="#16324f"/>
+      <polygon points="30,84 46,58 62,84" fill="#e8a317"/>
+      <polygon points="38,84 46,68 54,84" fill="#fff1c2"/>
+      <text x="66" y="86" fill="#fff6ea" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" font-weight="700">27</text>
+    </g></g>
+  </g>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="690,200;690,200;660,120;690,180;690,200"
+      keyTimes="0;0.22;0.34;0.46;1" dur="20s" repeatCount="indefinite" calcMode="spline"
+      keySplines="0 0 1 1;0.2 0.8 0.3 1;0.4 0 0.8 0.4;0 0 1 1"/>
+    <g transform="scale(1.7)">
+      <circle cy="-16" r="3" fill="#ff6b6b"><animate attributeName="opacity" values="1;0.3;1" dur="0.7s" repeatCount="indefinite"/></circle>
+      <line y1="-4" y2="-14" stroke="#8ecbff" stroke-width="2"/>
+      <rect x="-12" y="-4" width="24" height="16" rx="6" fill="#8ecbff"/>
+      <rect x="-7" y="0" width="14" height="6" rx="2" fill="#1a1020"/>
+      <rect x="-10" y="12" width="20" height="14" rx="3" fill="#1d6fbf"/>
+      <rect x="-8" y="26" width="6" height="10" rx="2" fill="#1a1020"/>
+      <rect x="2" y="26" width="6" height="10" rx="2" fill="#1a1020"/></g>
+  </g>
+
+  <g transform="translate(70,400) scale(1.45)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-12;0,0" dur="0.8s" repeatCount="indefinite"/>
+      
+      <circle cy="-16" r="3" fill="#ff6b6b"><animate attributeName="opacity" values="1;0.3;1" dur="0.7s" repeatCount="indefinite"/></circle>
+      <line y1="-4" y2="-14" stroke="#5eecc4" stroke-width="2"/>
+      <rect x="-12" y="-4" width="24" height="16" rx="6" fill="#5eecc4"/>
+      <rect x="-7" y="0" width="14" height="6" rx="2" fill="#1a1020"/>
+      <rect x="-10" y="12" width="20" height="14" rx="3" fill="#0f6e5c"/>
+      <rect x="-8" y="26" width="6" height="10" rx="2" fill="#1a1020"/>
+      <rect x="2" y="26" width="6" height="10" rx="2" fill="#1a1020"/>
+    </g>
+  </g>
+  <g transform="translate(190,430) scale(1.15)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="-14;14;-14" dur="0.9s" repeatCount="indefinite"/>
+      
+      <circle cy="-16" r="3" fill="#ff6b6b"><animate attributeName="opacity" values="1;0.3;1" dur="0.7s" repeatCount="indefinite"/></circle>
+      <line y1="-4" y2="-14" stroke="#ffd166" stroke-width="2"/>
+      <rect x="-12" y="-4" width="24" height="16" rx="6" fill="#ffd166"/>
+      <rect x="-7" y="0" width="14" height="6" rx="2" fill="#1a1020"/>
+      <rect x="-10" y="12" width="20" height="14" rx="3" fill="#c48a12"/>
+      <rect x="-8" y="26" width="6" height="10" rx="2" fill="#1a1020"/>
+      <rect x="2" y="26" width="6" height="10" rx="2" fill="#1a1020"/>
+    </g>
+  </g>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="480,430;480,430;560,390;480,430;480,430"
+      keyTimes="0;0.42;0.58;0.72;1" dur="20s" repeatCount="indefinite"/>
+    <g transform="scale(1.7)">
+      <circle cy="-16" r="3" fill="#ff6b6b"><animate attributeName="opacity" values="1;0.3;1" dur="0.7s" repeatCount="indefinite"/></circle>
+      <line y1="-4" y2="-14" stroke="#ff8b7a" stroke-width="2"/>
+      <rect x="-12" y="-4" width="24" height="16" rx="6" fill="#ff8b7a"/>
+      <rect x="-7" y="0" width="14" height="6" rx="2" fill="#1a1020"/>
+      <rect x="-10" y="12" width="20" height="14" rx="3" fill="#c43b4a"/>
+      <rect x="-8" y="26" width="6" height="10" rx="2" fill="#1a1020"/>
+      <rect x="2" y="26" width="6" height="10" rx="2" fill="#1a1020"/></g>
+  </g>
+
+  <circle r="11" fill="#ffd166" stroke="#1a1020" stroke-width="2">
+    <animate attributeName="cx" values="120;90;640;700;700;520;150;120" keyTimes="0;0.18;0.34;0.46;0.55;0.72;0.88;1" dur="20s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="230;140;150;210;430;450;420;230" keyTimes="0;0.18;0.34;0.46;0.55;0.72;0.88;1" dur="20s" repeatCount="indefinite"/>
+  </circle>
+
+  <g clip-path="url(#belt)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,0;-1200,0" dur="22s" repeatCount="indefinite"/>
+      <g transform="translate(0,546)"><rect width="138" height="36" rx="18" fill="#fffdf8" stroke="#e4d8c4"/><rect x="8" y="8" width="28" height="20" rx="10" fill="#e8a317"/><text x="22" y="22" text-anchor="middle" fill="#1c2430" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9" font-weight="700">JS</text><text x="42" y="23" fill="#1c2430" font-family="Arial, Helvetica, sans-serif" font-size="12">JavaScript</text></g><g transform="translate(150,546)"><rect width="138" height="36" rx="18" fill="#fffdf8" stroke="#e4d8c4"/><rect x="8" y="8" width="28" height="20" rx="10" fill="#5eecc4"/><text x="22" y="22" text-anchor="middle" fill="#08382e" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9" font-weight="700">RN</text><text x="42" y="23" fill="#1c2430" font-family="Arial, Helvetica, sans-serif" font-size="12">React Native</text></g><g transform="translate(300,546)"><rect width="138" height="36" rx="18" fill="#fffdf8" stroke="#e4d8c4"/><rect x="8" y="8" width="28" height="20" rx="10" fill="#7c6bf2"/><text x="22" y="22" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9" font-weight="700">EX</text><text x="42" y="23" fill="#1c2430" font-family="Arial, Helvetica, sans-serif" font-size="12">Expo</text></g><g transform="translate(450,546)"><rect width="138" height="36" rx="18" fill="#fffdf8" stroke="#e4d8c4"/><rect x="8" y="8" width="28" height="20" rx="10" fill="#e23d4a"/><text x="22" y="22" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9" font-weight="700">NS</text><text x="42" y="23" fill="#1c2430" font-family="Arial, Helvetica, sans-serif" font-size="12">NestJS</text></g><g transform="translate(600,546)"><rect width="138" height="36" rx="18" fill="#fffdf8" stroke="#e4d8c4"/><rect x="8" y="8" width="28" height="20" rx="10" fill="#f05138"/><text x="22" y="22" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9" font-weight="700">SW</text><text x="42" y="23" fill="#1c2430" font-family="Arial, Helvetica, sans-serif" font-size="12">Swift</text></g><g transform="translate(750,546)"><rect width="138" height="36" rx="18" fill="#fffdf8" stroke="#e4d8c4"/><rect x="8" y="8" width="28" height="20" rx="10" fill="#ff9900"/><text x="22" y="22" text-anchor="middle" fill="#1c2430" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9" font-weight="700">AWS</text><text x="42" y="23" fill="#1c2430" font-family="Arial, Helvetica, sans-serif" font-size="12">AWS</text></g><g transform="translate(900,546)"><rect width="138" height="36" rx="18" fill="#fffdf8" stroke="#e4d8c4"/><rect x="8" y="8" width="28" height="20" rx="10" fill="#336791"/><text x="22" y="22" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9" font-weight="700">PG</text><text x="42" y="23" fill="#1c2430" font-family="Arial, Helvetica, sans-serif" font-size="12">Postgres</text></g><g transform="translate(1050,546)"><rect width="138" height="36" rx="18" fill="#fffdf8" stroke="#e4d8c4"/><rect x="8" y="8" width="28" height="20" rx="10" fill="#2496ed"/><text x="22" y="22" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9" font-weight="700">DK</text><text x="42" y="23" fill="#1c2430" font-family="Arial, Helvetica, sans-serif" font-size="12">Docker</text></g><g transform="translate(1200,546)"><rect width="138" height="36" rx="18" fill="#fffdf8" stroke="#e4d8c4"/><rect x="8" y="8" width="28" height="20" rx="10" fill="#e8a317"/><text x="22" y="22" text-anchor="middle" fill="#1c2430" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9" font-weight="700">JS</text><text x="42" y="23" fill="#1c2430" font-family="Arial, Helvetica, sans-serif" font-size="12">JavaScript</text></g><g transform="translate(1350,546)"><rect width="138" height="36" rx="18" fill="#fffdf8" stroke="#e4d8c4"/><rect x="8" y="8" width="28" height="20" rx="10" fill="#5eecc4"/><text x="22" y="22" text-anchor="middle" fill="#08382e" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9" font-weight="700">RN</text><text x="42" y="23" fill="#1c2430" font-family="Arial, Helvetica, sans-serif" font-size="12">React Native</text></g><g transform="translate(1500,546)"><rect width="138" height="36" rx="18" fill="#fffdf8" stroke="#e4d8c4"/><rect x="8" y="8" width="28" height="20" rx="10" fill="#7c6bf2"/><text x="22" y="22" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9" font-weight="700">EX</text><text x="42" y="23" fill="#1c2430" font-family="Arial, Helvetica, sans-serif" font-size="12">Expo</text></g><g transform="translate(1650,546)"><rect width="138" height="36" rx="18" fill="#fffdf8" stroke="#e4d8c4"/><rect x="8" y="8" width="28" height="20" rx="10" fill="#e23d4a"/><text x="22" y="22" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9" font-weight="700">NS</text><text x="42" y="23" fill="#1c2430" font-family="Arial, Helvetica, sans-serif" font-size="12">NestJS</text></g><g transform="translate(1800,546)"><rect width="138" height="36" rx="18" fill="#fffdf8" stroke="#e4d8c4"/><rect x="8" y="8" width="28" height="20" rx="10" fill="#f05138"/><text x="22" y="22" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9" font-weight="700">SW</text><text x="42" y="23" fill="#1c2430" font-family="Arial, Helvetica, sans-serif" font-size="12">Swift</text></g><g transform="translate(1950,546)"><rect width="138" height="36" rx="18" fill="#fffdf8" stroke="#e4d8c4"/><rect x="8" y="8" width="28" height="20" rx="10" fill="#ff9900"/><text x="22" y="22" text-anchor="middle" fill="#1c2430" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9" font-weight="700">AWS</text><text x="42" y="23" fill="#1c2430" font-family="Arial, Helvetica, sans-serif" font-size="12">AWS</text></g><g transform="translate(2100,546)"><rect width="138" height="36" rx="18" fill="#fffdf8" stroke="#e4d8c4"/><rect x="8" y="8" width="28" height="20" rx="10" fill="#336791"/><text x="22" y="22" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9" font-weight="700">PG</text><text x="42" y="23" fill="#1c2430" font-family="Arial, Helvetica, sans-serif" font-size="12">Postgres</text></g><g transform="translate(2250,546)"><rect width="138" height="36" rx="18" fill="#fffdf8" stroke="#e4d8c4"/><rect x="8" y="8" width="28" height="20" rx="10" fill="#2496ed"/><text x="22" y="22" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9" font-weight="700">DK</text><text x="42" y="23" fill="#1c2430" font-family="Arial, Helvetica, sans-serif" font-size="12">Docker</text></g>
+    </g>
+  </g>
+  <clipPath id="belt"><rect x="0" y="532" width="900" height="88"/></clipPath>
+  <rect x="0.5" y="0.5" width="899" height="619" fill="none" stroke="#e4d8c4"/>
+</svg>
