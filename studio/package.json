@@ -1,0 +1,16 @@
+{
+  "name": "bixtico-profile-studio",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "frames": "node capture.mjs frames",
+    "hero": "ffmpeg -y -framerate 25 -i frames/f%04d.png -c:v libwebp_anim -lossless 0 -quality 55 -compression_level 6 -pix_fmt yuva420p -loop 0 -vf scale=900:-1:flags=lanczos ../assets/hero.webp",
+    "panels": "node gen.mjs ../assets"
+  },
+  "dependencies": {
+    "three": "0.170.0"
+  },
+  "devDependencies": {
+    "playwright": "^1.48.0"
+  }
+}
